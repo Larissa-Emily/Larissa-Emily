@@ -2,7 +2,7 @@
 ### Olá! Eu sou Larissa Emily 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-emily-33022a1ba/)
-[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliofrontend9.netlify.app)
+[![Portifolio]
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissa-Emily&show_icons=true&theme=cobalt)
@@ -25,7 +25,7 @@
 </div>
 </br>
 
-Entusiasta de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Buscando constantemente aprimorar habilidades e aplicar conhecimentos em projetos práticos.
+Desenvolvedora de sistemas,cursada em Análise e Desenvolvimento de Sistemas. Buscando constantemente aprimorar habilidades e aplicar conhecimentos em projetos práticos.
 
 ## Email: 
 - larissaemily456@gmail.com
